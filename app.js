@@ -18,10 +18,10 @@ const homeState = function(page) {
   document.querySelector('#heading').textContent = null;
   document.querySelector('#content').innerHTML = `
     <div class="jumbotron">
-    <h1 class="display-3">Hello, world!</h1>
-    <p class="lead">This is a Simple hero unit, a simple jumbotron-style component for calling extra attention to fautured content or information.</p>
+    <h1 class="display-3">Odigbo Ltd.</h1>
+    <p class="lead">We specialize in Web development and javscript engineering. We also provide cloud services to our clients and scaling solutions.</p>
     <hr class="my-4">
-    <p>It uses utility classes for typography and spacing to space content out within the large container.</p>
+    <p>You can learn more about us here</p>
     <p class="lead">
         <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
     </p>
